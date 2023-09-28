@@ -1,0 +1,463 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1B955F64-14A1-41E4-977D-64BFE6D50A90}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>WindowsFormsApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="2_G.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_G.Designer.cs">
+      <DependentUpon>2_G.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3_F.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3_F.Designer.cs">
+      <DependentUpon>3_F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="4_G_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="4_G_2.Designer.cs">
+      <DependentUpon>4_G_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="5_K.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="5_K.Designer.cs">
+      <DependentUpon>5_K.cs</DependentUpon>
+    </Compile>
+    <Compile Include="6_M.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="6_M.Designer.cs">
+      <DependentUpon>6_M.cs</DependentUpon>
+    </Compile>
+    <Compile Include="7_K_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="7_K_3.Designer.cs">
+      <DependentUpon>7_K_3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="0_MapGalactic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0_MapGalactic.Designer.cs">
+      <DependentUpon>0_MapGalactic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1_K_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_K_2.Designer.cs">
+      <DependentUpon>1_K_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gl_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gl_menu.Designer.cs">
+      <DependentUpon>Gl_menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="2_G.resx">
+      <DependentUpon>2_G.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3_F.resx">
+      <DependentUpon>3_F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="4_G_2.resx">
+      <DependentUpon>4_G_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="5_K.resx">
+      <DependentUpon>5_K.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="6_M.resx">
+      <DependentUpon>6_M.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="7_K_3.resx">
+      <DependentUpon>7_K_3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="0_MapGalactic.resx">
+      <DependentUpon>0_MapGalactic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_K_2.resx">
+      <DependentUpon>1_K_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gl_menu.resx">
+      <DependentUpon>Gl_menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Сним3ок.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1920x1080-px-car-Dodge-Dodge-Charger-Dodge-Charger-R-T-Dodge-Charger-R-T-1968-muscle-cars-road-744941.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Снимок.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Снимок1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Снимок2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Снимок3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Снимок4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wood _texture35.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Звезда_G.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star_G.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star_G1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\F.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\K.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\M.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Снимок21.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Арктический1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Астероид_11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Астероид_21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Астероид_31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Астероид_41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Безжизненная_11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Безжизненная_21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Безжизненная_31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Безжизненная_41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Безжизненная_51.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Вулканическая_11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Вулканическая_21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Вулканическая_31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Высокогорный_11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Газовый_гигант_11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Газовый_гигант_21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Газовый_гигант_31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Газовый_гигант_41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Засушливый_11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Звезда_класс_F1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Звезда_класс_А1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Звезда_класс_В1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Звезда_класс_К1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Звезда_класс_М1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Земная_11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Земная_21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Идеальная_11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Карик_класса_Т1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Луна1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Океаническая_11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Опустошенный_11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Саванна1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Солнце_класс_G1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Токсичная_11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Токсичная_21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Токсичная_31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Тропическая_11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Тундра_11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Арктический2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Звезда_класс_К2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Безжизненная_12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Астероид_12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Вулканическая_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Саванна2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Солнце_класс_G2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Солнце_класс_G3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Вулканическая_22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Безжизненная_42.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Астероид_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Идеальная_12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Звезда_класс_F2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Астероид_22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Вулканическая_33.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Саванна3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Газовый_гигант_22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Солнце_класс_G4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Вулканическая_12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Океаническая_12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Астероид_42.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Безжизненная_22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Звезда_класс_К3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Безжизненная_52.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Тропическая_12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Токсичная_12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Газовый_гигант_42.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Звезда_класс_М2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Астероид_33.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Земная_22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Опустошенный_12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Безжизненная_43.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Звезда_класс_К4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Опустошенный_13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Звезда_класс_М3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Земная_12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Газовый_гигант_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Вулканическая_34.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Вулканическая_35.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Звезда_класс_В2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Звезда_класс_А2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brRQmoO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_1467309842_stellaris.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R3AvHmk.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
