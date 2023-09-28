@@ -1,0 +1,58 @@
+C:\Users\1\Desktop\WORk\MAx\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\1\Desktop\WORk\MAx\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\1\Desktop\WORk\MAx\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\1\Desktop\WORk\MAx\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\1\Desktop\WORk\MAx\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\WORk\MAx\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\1\Desktop\WORk\MAx\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\1\Desktop\WORk\MAx\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\1\Desktop\WORk\MAx\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\1\Desktop\WORk\MAx\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\1\Desktop\WORk\MAx\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\1\Desktop\WORk\MAx\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\1\Desktop\WORk\MAx\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\WORk\MAx\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\1\Desktop\WORk\MAx\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\WORk\MAx\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.G.resources
+C:\Users\1\Desktop\WORk\MAx\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.F.resources
+C:\Users\1\Desktop\WORk\MAx\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.G_2.resources
+C:\Users\1\Desktop\WORk\MAx\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.K.resources
+C:\Users\1\Desktop\WORk\MAx\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.M.resources
+C:\Users\1\Desktop\WORk\MAx\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.K_3.resources
+C:\Users\1\Desktop\WORk\MAx\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.K_2.resources
+C:\Users\1\Desktop\WORk\MAx\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MapGalactic.resources
+C:\Users\1\Desktop\WORk\MAx\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Gl_menu.resources
+C:\Users\1\Desktop\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\1\Desktop\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.G.resources
+C:\Users\1\Desktop\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.F.resources
+C:\Users\1\Desktop\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.G_2.resources
+C:\Users\1\Desktop\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.K.resources
+C:\Users\1\Desktop\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.M.resources
+C:\Users\1\Desktop\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.K_3.resources
+C:\Users\1\Desktop\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MapGalactic.resources
+C:\Users\1\Desktop\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.K_2.resources
+C:\Users\1\Desktop\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Gl_menu.resources
+C:\Users\1\Desktop\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\1\Desktop\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\1\Desktop\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\1\Desktop\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\1\Desktop\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\1\Desktop\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\ffffffffffffffff\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\ffffffffffffffff\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\ffffffffffffffff\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+F:\ffffffffffffffff\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.G.resources
+F:\ffffffffffffffff\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.F.resources
+F:\ffffffffffffffff\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.G_2.resources
+F:\ffffffffffffffff\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.K.resources
+F:\ffffffffffffffff\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.M.resources
+F:\ffffffffffffffff\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.K_3.resources
+F:\ffffffffffffffff\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MapGalactic.resources
+F:\ffffffffffffffff\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.K_2.resources
+F:\ffffffffffffffff\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Gl_menu.resources
+F:\ffffffffffffffff\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\ffffffffffffffff\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+F:\ffffffffffffffff\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+F:\ffffffffffffffff\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\ffffffffffffffff\КУРСАЧ\кпияп курсач\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
